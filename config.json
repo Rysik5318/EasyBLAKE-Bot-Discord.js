@@ -1,11 +1,9 @@
 {
-   "token": "ODU3NTUyNzM1NDE4ODQzMTQ2.YNRQOA.GWjtspJHHIBGZR46GDsyXP9TNYg",
+   "token": "",
    "prefix": "!",
-       "default_prefix": "!",
-    "owners": ["621461292737232924"],
-   "loggerChannelID": "855539600809918494",
+   "loggerChannelID": "",
    "webhook": {
-      "id": "858326896910663680",
-      "token": "oGOKcCnEeK2XhDdzdjHDTUJSdKP9KbgaM4S940Npg8cvB_IIv8QPXed68ONPGr0z_YZL"
+      "id": "",
+      "token": ""
    }
 }
