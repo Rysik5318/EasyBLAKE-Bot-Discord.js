@@ -6,7 +6,7 @@ const client = new Discord.Client({
     activity: {
       name: "Logger",
       type: "STREAMING",
-      url: "https://twitch.tv/#""
+      url: "https://twitch.tv/#"
     }
   }
 });
